@@ -1,0 +1,13 @@
+<!doctype html>
+
+
+<html>
+
+    <head>
+
+        <title>Heading</title>
+        <style>
+      h1,h2{
+        color: red;
+        background-color: black;
+      }
