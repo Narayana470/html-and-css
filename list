@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+
+<html>
+
+    <head>
+
+        <title>List</title>
+    </head>
+        <body>
+                <h1>list</h1>
+            <ol>
+                <li>Narayana</li>
+                <li>Raju</li>
+                <li>Naresh</li>
+
+
+
+        </ol> 
+            <ul>
+
+                <li>Narayana</li>
+                <li>Raju</li>
+                <li>Naresh</li>
+
+            </ul>
+
+
+        </body>

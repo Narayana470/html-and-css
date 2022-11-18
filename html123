@@ -1,0 +1,17 @@
+<body>
+          <image src="image2.jpg">
+
+            <h1>Narayana Rao Vanaparthi</h1>
+            <h2>Senior Technical Support Engineer at Tech Mahindra</h2>
+            <h2>Github link <a href="https://github.com/Narayana470/html-and-css.git" target="_blank">git hub</a></h2>
+        </body>
+        <style>
+            image{
+                width: 100px;
+            }
+      h1,h2{
+        color: red;
+        
+      }
+
+      </
