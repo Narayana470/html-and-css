@@ -6,10 +6,16 @@
     <head>
 
         <title>List</title>
+        <style>
+            ul{
+                list-style-type: ;
+            }
+
+        </style>
     </head>
         <body>
                 <h1>list</h1>
-            <ol>
+            <ol type="">
                 <li>Narayana</li>
                 <li>Raju</li>
                 <li>Naresh</li>
