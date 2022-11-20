@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+
+
+    <head>
+
+        <title>Box model</title>
+        <style>
+h1{
+    background-color: red;
+    border: 5px solid green;
+    padding: 50px;
+    margin: 50px;
+}
+
+        </style>
+    </head>
+
+    <body>
+        <h1>Narayana Rao</h1>
+    </body>
+   </html>
+    
